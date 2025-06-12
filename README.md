@@ -1,6 +1,8 @@
 # Health
 Health-related code like co-morbidity index, diagnose groups etc
 
+---
+
 ### [Charlston Comorbidity index](https://github.com/bjoroeKI/Charlson-comorbidity-index-revisited/tree/main)
 This script was based on the publication:
 Adaptation of the Charlson comorbidity index for register-based research in Sweden. 
