@@ -2,6 +2,9 @@
 Health-related code like co-morbidity index, diagnose groups etc
 
 ---
+### [Common mental disorders](https://github.com/Laborocto/health/blob/main/Inpatient_Register_Common_Mental_Disorders.do)
+Code to retrieve Common Mental Disorders from inpatient register.
+Stata code by Lluis Mangot 
 
 ### [Charlston Comorbidity index](https://github.com/bjoroeKI/Charlson-comorbidity-index-revisited/tree/main)
 This script was based on the publication:
